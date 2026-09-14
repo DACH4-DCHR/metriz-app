@@ -1,0 +1,15 @@
+{
+  "name": "METRIZ — Sistema de Metrados Estructurales",
+  "short_name": "METRIZ",
+  "description": "Metrados automáticos de estructuras de concreto armado y albañilería. Normativa peruana.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0F2537",
+  "theme_color": "#0F2537",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
